@@ -1,5 +1,5 @@
 # Document_Similarity
-Code to process text from html files and calculate similarity scores between the processed texts
+**Code to process text from html files and calculate similarity scores between the processed texts**
 
   This code scrapes text from the wikipedia Basketball article and nine additional wikipedia articles with hyperlinks found on the Basketball page.  It processes the text using several NLP libraries including BeautifulSoup and nltk to create a list of unigrams derived from each article, i.e. a 'bag of words' from each article.
   
