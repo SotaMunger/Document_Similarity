@@ -4,14 +4,23 @@
   The code in this notebook comprises a document similarity calculator that quantifies the semantic distance between ten articles found on Wikipedia. The articles were selected by starting at the Wikipedia page for 'Basketball' and randomly clicking on nine hyperlinks found on that page. Hyperlinks to each of the articles follow:
   
 https://en.wikipedia.org/wiki/Basketball
+
 https://en.wikipedia.org/wiki/Backboard_(basketball)
+
 https://en.wikipedia.org/wiki/Layup
+
 https://en.wikipedia.org/wiki/James_Naismith
+
 https://en.wikipedia.org/wiki/McGill_University
+
 https://en.wikipedia.org/wiki/Larry_Bird
+
 https://en.wikipedia.org/wiki/1936_Summer_Olympics
+
 https://en.wikipedia.org/wiki/Babe_Didrikson
+
 https://en.wikipedia.org/wiki/Jersey_(clothing)
+
 https://en.wikipedia.org/wiki/Cardiovascular
 
 Text from all articles were extracted on October 25, 2022 and reflect the content on those pages on that date.
